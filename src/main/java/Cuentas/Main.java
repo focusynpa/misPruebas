@@ -5,7 +5,10 @@ public class Main {
     public static void main(String[] args) {
         operativa_cuenta(0);
     }
-
+/**
+ * 
+ * @param cantidad 
+ */
     private static void operativa_cuenta(float cantidad) {
         CCuenta cuenta1;
         double saldoActual;
